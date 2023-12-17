@@ -5,3 +5,4 @@ it [according to the security policy on our website][policy]. Thanks!
 
 [team]: https://www.rust-lang.org/governance/wgs/wg-security-response
 [policy]: https://www.rust-lang.org/policies/security
+https://play.rust-lang.org/?version=nightly&mode=release&edition=2024
